@@ -1,0 +1,39 @@
+/*favorite*/
+@font-face {
+    font-family: sansation;
+    src: url(fonts/SansationRegular-OgJP.ttf);
+}
+
+@font-face {
+    font-family: sansationbold;
+    src: url(fonts/SansationBold-01jz.ttf);
+}
+
+
+/*not professional enough*/
+@font-face {
+    font-family: exo;
+    src: url(fonts/ExoMedium-5mMV.otf);
+}
+
+/*just a tad unprofessional*/
+@font-face {
+    font-family: oxanium;
+    src: url(fonts/OxaniumSemibold-GOO5Z.ttf);
+}
+
+/*bad*/
+@font-face {
+    font-family: til;
+    src: url(fonts/TitilliumWebsemibold-Kv2y.ttf);
+}
+
+/*bad*/
+@font-face {
+    font-family: wauk;
+    src: url(fonts/WaukeganLdoBlack-Eael.ttf);
+}
+
+div {
+    font-family: sansationbold;
+}
